@@ -4,6 +4,9 @@
 
 这是一款功能强大的压缩包密码破解工具，支持多种压缩格式和攻击模式，界面友好，操作简单。
 
+通过网盘分享的文件：CipherBlade.exe
+链接: https://pan.baidu.com/s/1NCdDPXRgFgBImYZGdGo80A?pwd=qwcf 提取码: qwcf 
+
 ## 功能特点
 
 ### 支持的压缩格式
